@@ -1,2 +1,3 @@
 # book-list-app
-A booklist app made using HTML, CSS ,plain JS, It uses local storage.
+A booklist app which uses local storage, made using HTML, CSS and plain JS.
+
